@@ -3,10 +3,6 @@ Melanoma Skin Cancer Classification using Pytorch and Web App using Streamlit
 
 The purpose of the following project is to correctly identify the benign and malignant cases of Melanoma in images of skin lesions
 
-## About Melanoma
-
-[![Medical Aspects](gifs/medical.gif)](https://www.youtube.com/watch?v=mkYBxfKDyv0)
-
 ## Demo
 
 [![Demo Melanoma](gifs/demo.gif)](https://www.youtube.com/watch?v=S-usBWWvAbA)
