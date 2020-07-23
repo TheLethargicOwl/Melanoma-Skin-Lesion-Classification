@@ -5,11 +5,11 @@ The purpose of the following project is to correctly identify the benign and mal
 
 ## About Melanoma
 
-[![Medical Aspects](https://j.gifs.com/YWA8p9.gif)](https://www.youtube.com/watch?v=mkYBxfKDyv0)
+[![Medical Aspects](gifs/medical.gif)](https://www.youtube.com/watch?v=mkYBxfKDyv0)
 
 ## Demo
 
-[![Demo Melanoma](https://j.gifs.com/BNJqon.gif)](https://www.youtube.com/watch?v=S-usBWWvAbA)
+[![Demo Melanoma](gifs/demo.gif)](https://www.youtube.com/watch?v=S-usBWWvAbA)
 
 ## Table of contents
 * [Introduction](#Introduction)
