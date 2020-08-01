@@ -28,7 +28,7 @@ is malignant or benign.Value 0 denotes benign, and 1 indicates malignant
 * Loss Function : BCE with logit Loss
 * Validation Metric : ROC-AUC Score
 * Best Score on validation data : 0.9671
-* Best Score on test data : 0.9583
+* Best Score on test data : 0.9620
 * Epochs Trained : 20* 5Folds with Early Stopping if score doesn't improve
 * Optimizer : Adam
 
