@@ -5,7 +5,7 @@ The purpose of the following project is to correctly identify the benign and mal
 
 ## Demo
 
-[![Demo Melanoma](gifs/demo.gif)](https://www.youtube.com/watch?v=S-usBWWvAbA)
+[![Demo Melanoma](gifs/melanoma.gif)](https://www.youtube.com/watch?v=S-usBWWvAbA)
 
 ## Table of contents
 * [Introduction](#Introduction)
