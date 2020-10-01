@@ -1,5 +1,5 @@
 # Melanoma-Skin-Lesion-Classification
-Melanoma Skin Cancer Classification using Pytorch and Web App using Streamlit Library
+Melanoma Skin Cancer Classification using Pytorch and Web App using Streamlit
 
 The purpose of the following project is to correctly identify the benign and malignant cases of Melanoma in images of skin lesions
 
